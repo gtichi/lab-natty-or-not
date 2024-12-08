@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Gislaine aqui realizando a entraga da etapa de acesso ao GIT Hut!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA Generativa!!!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Aprendendo melhor sobre as IAs Generativas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+DIO me auziliou nesta tarefa
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Estudos sobre as IAs generativas
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Conteúudo sendo absorvido para crescimento e aprimoramento pessoal
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+IA Generativas estão revolucionando a humanidade.
 ```
 
 ### Exemplos e Insigths
