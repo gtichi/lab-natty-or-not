@@ -23,16 +23,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Aprendendo IA Generativa
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Modelos como GPT-4 da OpenAI (usado no ChatGPT) e DALL-E 2 podem criar texto e imagens a partir de prompts de linguagem natural
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Para me auxiliar a resolver este conteúdo, contei com a juda do CHATGPT.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
